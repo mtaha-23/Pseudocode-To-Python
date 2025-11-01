@@ -23,14 +23,6 @@ wheels/
 .installed.cfg
 *.egg
 
-# Model files (usually too large for GitHub)
-*.safetensors
-*.bin
-*.pt
-*.pth
-*.h5
-*.ckpt
-
 # Jupyter Notebook
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
